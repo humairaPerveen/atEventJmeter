@@ -1,5 +1,5 @@
 node {
   stage 'Run JMeter Test'
-bat 'C:\Users\VenD\Downloads\jmeter\apache-jmeter-5.1.1\bin\jmeter.bat -n -t C:\Users\VenD\Desktop\atEventPerformanceTestSuite.jmx -l C:\Users\VenD\Desktop\Performance\report.jtl'
+bat 'C:/Users/VenD/Downloads/jmeter/apache-jmeter-5.1.1/bin/jmeter.bat -n -t C:/Users/VenD/Desktop/atEventPerformanceTestSuite.jmx -l C:/Users/VenD/Desktop/Performance/report.jtl'
 }
 
